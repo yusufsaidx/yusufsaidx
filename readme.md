@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufsaidx&show_icons=true&locale=en" alt="yusufsaidx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsaidx&" alt="yusufsaidx" /></p>
-![Snake animation]([https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/preethamb97/preethamb97/6c15b120acba3765eae1635a76717c5205d39997/github-contribution-grid-snake.svg))
+![Snake animation](https://raw.githubusercontent.com/preethamb97/preethamb97/6c15b120acba3765eae1635a76717c5205d39997/github-contribution-grid-snake.svg))
