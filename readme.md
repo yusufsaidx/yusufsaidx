@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/yusufsaidx" target="blank"><img src="https://img.shields.io/twitter/follow/yusufsaidx?logo=twitter&style=for-the-badge" alt="yusufsaidx" /></a> </p>
 
-- 🌱 I’m currently learning **Python, JS-CSS-HTML**
+- 🌱 I’m currently learning **Java and Git**
 
 - 💬 Ask me about **Python**
 
